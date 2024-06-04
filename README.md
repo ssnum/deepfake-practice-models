@@ -8,8 +8,7 @@ This is a collection of my code where I practiced using simple AI Models to faci
 - Logistic Regression (for brightness and real image data)
 - Support Vector Classification (for brightness data)
 - pre-processing code to show how I accessed and stored real RGB values per image
-- model metrics practice for real image data
-- hyper parameters practice code from learning (real image data)
+- model metrics practice for real image data including accuracy, precision, f1 score, recall, confusion matrix, roc curve, and aea under roc curve
 
 ## Requirements to Use
 - import all neccesary libraries referenced throughout the code
