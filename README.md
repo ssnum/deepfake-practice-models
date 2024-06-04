@@ -1,5 +1,5 @@
 # Deepfake Practice Models
-This is a collection of my code where I practiced using simple AI Models to facilitate my learning within AI. For my parameters, I used both the brightness values per image and the actual image data itself (RGB pixel values). This is included to show my practice code for learning to use pre-built AI models with my dataset.
+This is a collection of my code where I practiced using simple AI Models to facilitate my learning within AI. For my parameters, I used both the brightness values per image and the actual image data itself (RGB pixel values). This is included to show my practice code for learning to use pre-built AI models with my dataset prior to developing a Neural Network.
 
 ##Features
 - KNN Practice Model (for brightness and real image data)
