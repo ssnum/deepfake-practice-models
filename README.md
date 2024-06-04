@@ -3,10 +3,10 @@ This is a collection of my code where I practiced using simple AI Models to faci
 
 ## Features
 - KNN Practice Model (for brightness and real image data)
-- Random Forest Classifier (for brightness and real image data)
+- Random Forest Classifier Model (for brightness and real image data)
 - Random Forest Classifier Bootstrapping method (for brightness data)
-- Logistic Regression (for brightness and real image data)
-- Support Vector Classification (for brightness data)
+- Logistic Regression Model (for brightness and real image data)
+- Support Vector Classification Model (for brightness data)
 - pre-processing code to show how I accessed and stored real RGB values per image
 - model metrics practice for real image data including accuracy, precision, f1 score, recall, confusion matrix, roc curve, and aea under roc curve
 
